@@ -1,0 +1,15 @@
+C:\Projects\Project_Sandbox\Sandbox\bin\Debug\net8.0\Sandbox.exe
+C:\Projects\Project_Sandbox\Sandbox\bin\Debug\net8.0\Sandbox.deps.json
+C:\Projects\Project_Sandbox\Sandbox\bin\Debug\net8.0\Sandbox.runtimeconfig.json
+C:\Projects\Project_Sandbox\Sandbox\bin\Debug\net8.0\Sandbox.dll
+C:\Projects\Project_Sandbox\Sandbox\bin\Debug\net8.0\Sandbox.pdb
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfoInputs.cache
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfo.cs
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\Sandbox.csproj.CoreCompileInputs.cache
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\Sandbox.sourcelink.json
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\Sandbox.dll
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\refint\Sandbox.dll
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\Sandbox.pdb
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\Sandbox.genruntimeconfig.cache
+C:\Projects\Project_Sandbox\Sandbox\obj\Debug\net8.0\ref\Sandbox.dll
